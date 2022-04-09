@@ -34,17 +34,9 @@ https://www.lexdao.coop
 **Export CSV**
 https://app.daohaus.club/dao/0x64/0x58234d4bf7a83693dc0815d97189ed7d188f6981/proposals
 
-
 https://github.com/lexDAO/LexCorpus
-
-![](https://i.imgur.com/Cg7DeTO.png)
-
-
-![](https://i.imgur.com/LiPlGY2.png)
-
 
 **Dashboard**
 https://hack.ethglobal.com/daohacks
-
 https://hack.ethglobal.com/daohacks/home
 
