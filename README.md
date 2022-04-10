@@ -26,10 +26,8 @@ https://www.youtube.com/embed/ByD70FKCdsI
 **Use Case Example** 
 https://www.lexdao.coop
 
-
 **Proposals**
 ![](https://i.imgur.com/BwPjMlw.png)
-
 
 **Export CSV**
 https://app.daohaus.club/dao/0x64/0x58234d4bf7a83693dc0815d97189ed7d188f6981/proposals
@@ -39,4 +37,5 @@ https://github.com/lexDAO/LexCorpus
 **Dashboard**
 https://hack.ethglobal.com/daohacks
 https://hack.ethglobal.com/daohacks/home
+
 
